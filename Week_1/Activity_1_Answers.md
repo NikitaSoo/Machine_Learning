@@ -1,10 +1,6 @@
 # Activity 1 (CyberSim Trainer):
 
----
-
 ## Main Question
-
----
 
 Discuss this question in your group:
 
@@ -12,8 +8,6 @@ Discuss this question in your group:
 what custom LLM would you build?`
 
 ## Group task
-
----
 
 Discuss the following points together:
 
