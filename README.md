@@ -1,10 +1,10 @@
 # Machine Learning - Group 3
 
----
-
 This will be our working environment where we will put our thoughts
 and collaborate on machine learning concepts.
 Here you will find notes and experiments 🤖 🧠
+
+---
 
 ## Group Members
 
